@@ -1,0 +1,86 @@
+Cryogonal Cryogonal из команды желтых вступает в бой!
+Slakoth Slakoth из команды белых вступает в бой!
+Cryogonal Cryogonal использует способность Flash Cannon. 
+Slakoth Slakoth теряет 5 здоровья.
+
+Slakoth Slakoth использует способность Blizzard. 
+Cryogonal Cryogonal теряет 3 здоровья.
+
+Cryogonal Cryogonal использует способность Swagger. 
+Slakoth Slakoth увеличивает атаку.
+
+Slakoth Slakoth использует способность Blizzard. 
+Cryogonal Cryogonal теряет 2 здоровья.
+
+Cryogonal Cryogonal использует способность Confuse Ray. 
+Slakoth Slakoth не замечает воздействие типа GHOST
+
+Slakoth Slakoth растерянно попадает по себе. 
+Slakoth Slakoth теряет 5 здоровья.
+
+Cryogonal Cryogonal промахивается
+
+Slakoth Slakoth использует способность Blizzard. 
+Cryogonal Cryogonal теряет 3 здоровья.
+
+Cryogonal Cryogonal использует способность Flash Cannon. 
+Slakoth Slakoth теряет 5 здоровья.
+Slakoth Slakoth теряет сознание.
+Vigoroth Vigoroth из команды белых вступает в бой!
+Cryogonal Cryogonal использует способность Swagger. 
+Vigoroth Vigoroth увеличивает атаку.
+
+Vigoroth Vigoroth использует способность Blizzard. 
+Cryogonal Cryogonal теряет 2 здоровья.
+
+Cryogonal Cryogonal промахивается
+
+Vigoroth Vigoroth использует способность Swagger. 
+Cryogonal Cryogonal увеличивает атаку.
+
+Cryogonal Cryogonal использует способность Flash Cannon. 
+Vigoroth Vigoroth теряет 5 здоровья.
+
+Vigoroth Vigoroth растерянно попадает по себе. 
+Vigoroth Vigoroth теряет 6 здоровья.
+
+Cryogonal Cryogonal промахивается
+
+Vigoroth Vigoroth использует способность Swagger. 
+Cryogonal Cryogonal увеличивает атаку.
+
+Cryogonal Cryogonal растерянно попадает по себе. 
+Cryogonal Cryogonal теряет 4 здоровья.
+Cryogonal Cryogonal теряет сознание.
+Spinarak Spinarak из команды желтых вступает в бой!
+Vigoroth Vigoroth использует способность Blizzard. 
+Spinarak Spinarak теряет 6 здоровья.
+
+Spinarak Spinarak использует способность Poison Sting. 
+Vigoroth Vigoroth теряет 7 здоровья.
+Vigoroth Vigoroth теряет сознание.
+Slaking Slaking из команды белых вступает в бой!
+Slaking Slaking использует способность Slash. 
+Spinarak Spinarak теряет 9 здоровья.
+Spinarak Spinarak теряет сознание.
+Ariados Ariados из команды желтых вступает в бой!
+Slaking Slaking использует способность Swagger. 
+Ariados Ariados увеличивает атаку.
+
+Ariados Ariados использует способность Poison Sting. 
+Slaking Slaking теряет 6 здоровья.
+
+Slaking Slaking использует способность Blizzard. 
+Ariados Ariados теряет 4 здоровья.
+
+Ariados Ariados использует способность Pin Missile. 
+Slaking Slaking теряет 5 здоровья.
+Ariados Ariados использует способность Pin Missile. 
+Slaking Slaking теряет 4 здоровья.
+Ariados Ariados использует способность Pin Missile. 
+Slaking Slaking теряет 7 здоровья.
+Ariados Ariados использует способность Pin Missile. 
+Slaking Slaking теряет 5 здоровья.
+Slaking Slaking теряет сознание.
+В команде белых не осталось покемонов.
+Команда желтых побеждает в этом бою!
