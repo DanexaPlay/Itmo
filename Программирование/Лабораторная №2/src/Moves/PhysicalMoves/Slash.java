@@ -1,0 +1,14 @@
+package Moves.PhysicalMoves;
+
+import ru.ifmo.se.pokemon.PhysicalMove;
+import ru.ifmo.se.pokemon.Type;
+
+public class Slash extends PhysicalMove {
+    public Slash() {
+        super(Type.NORMAL, 70, 100);
+    }
+    @Override
+    protected String describe() {
+        return "использует способность Slash";
+    }
+}
